@@ -1,10 +1,3 @@
-total_price = 100
-
-if total_price > 100
-  puts "みかんを購入。所持金に余りあり。"
-elsif total_price == 100
-  puts "みかんを購入。所持金は0円。"
-else 
-  "みかんを購入することができません。"
-end
-  
+puts "キーボードから何か入力してみましょう"
+input_key = gets
+puts "入力された内容は#{input_key}"
