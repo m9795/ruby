@@ -1,5 +1,5 @@
-webcamp = "プログラミング学習"
-puts webcamp
+Pi = 3.14
+puts Pi
 
-webcamp = "オンラインプログラミング学習"
-puts webcamp
+Pi = 100
+puts Pi
